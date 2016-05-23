@@ -10,7 +10,7 @@ body{
   margin:48px 0 0 0;
 }
 header{
-  background-color:orange;
+  background-color:silver;
   position:fixed;
   left:0;
   top:0;
@@ -24,7 +24,7 @@ header{
   float:left;
 }
 .box{
-  background-color:red;
+  background-color:green;
   color:black;
   width:240px;
   height:80px;
